@@ -14,10 +14,19 @@ Buzzer and LED lights will turn on when the car toy is flipped:<br />
 https://www.youtube.com/watch?v=iP7ZP7swoYQ<br />
 
 <br />
-	pet toy prototype:
-<p float="left">
-	<img src="Main.png" width="200px">
-</p>
+pet toy prototype:
+<img src="Main.png" width="300px">
+<br />
+Modules:<br />
+Audio playing module:<br />
+<img src="PlayAudio.jpg" width="300px"><br />
+Vibration module:<br />
+<img src="vibrate.jpg" width="300px"><br />
+LED module:<br />
+<img src="BlueRedLED.jpg" width="300px"><br />
+Buzzer module:<br />
+<img src="buzz.jpg" width="300px"><br />
+
 
 
 
