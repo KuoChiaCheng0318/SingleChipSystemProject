@@ -19,13 +19,13 @@ pet toy prototype:
 <br />
 Modules:<br />
 Audio playing module:<br />
-<img src="PlayAudio.jpg" width="300px"><br />
+<img src="PlayAudio.jpg" width="300px"><
 Vibration module:<br />
-<img src="vibrate.jpg" width="300px"><br />
+<img src="vibrate.jpg" width="300px">
 LED module:<br />
-<img src="BlueRedLED.jpg" width="300px"><br />
+<img src="BlueRedLED.jpg" width="300px">
 Buzzer module:<br />
-<img src="buzz.jpg" width="300px"><br />
+<img src="buzz.jpg" width="300px">
 
 
 
