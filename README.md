@@ -8,7 +8,7 @@ MPU6050 to detect movements, and the vibration module will vibrate when movement
 https://www.youtube.com/watch?v=PuqwFM8iqFQUsing<br /><br /> 
 
 Abandoned project idea:	Car toy controlled by smartphone<br />
-Car toy controlled by Android smartphone, using App Inventor and arduino to develop, using Bluetooth to connect smartphone and car toy:<br />
+Car toy controlled by Android smartphone, using App Inventor and arduino to develop:<br />
 https://www.youtube.com/watch?v=YTaQtLDiKss<br />
 Buzzer and LED lights will turn on when the car toy is flipped:<br />
 https://www.youtube.com/watch?v=iP7ZP7swoYQ<br />
