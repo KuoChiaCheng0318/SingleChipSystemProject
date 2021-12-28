@@ -31,7 +31,7 @@ Car toy:<br />
 
 puzzleCode.ino: Main arduino code of pet toy<br /><br />
 
-car/april27th_1.aia: App Inventor code of car toy<br />
+car/april27th_1.aia: App Inventor file for car toy app on Android smartphone<br />
 car/cartest1.ino: Arduino code for car toy
 
 
