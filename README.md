@@ -4,7 +4,7 @@ Showing functions of all application modules:<br />
 https://www.youtube.com/watch?v=_k7vjMCnXuY	<br />
 Showing that different modules can work simultaneously, and can still work if plugs of different modules switched:<br />
 https://www.youtube.com/watch?v=cVUKTLRUsQA <br />
-MPU6050 to detect movements, and the vibration module will vibrate when movements detected:<br />
+Using MPU6050 to detect movements, and the vibration module will vibrate when movements detected:<br />
 https://www.youtube.com/watch?v=PuqwFM8iqFQUsing<br /><br /> 
 
 Discarded project idea:	Car toy controlled by smartphone<br />
@@ -26,6 +26,8 @@ LED module:<br />
 <img src="BlueRedLED.jpg" width="300px">
 Buzzer module:<br />
 <img src="buzz.jpg" width="300px">
+Car toy:<br />
+<img src="car.PNG" width="300px">
 
 puzzleCode.ino: Main arduino code of pet toy<br /><br />
 
