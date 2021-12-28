@@ -27,9 +27,9 @@ LED module:<br />
 Buzzer module:<br />
 <img src="buzz.jpg" width="300px">
 
-puzzleCode.ino: Main arduino code of pet toy<br />
+puzzleCode.ino: Main arduino code of pet toy<br /><br />
 
-car/april27th_1.aia: App Inventor code of car toy
+car/april27th_1.aia: App Inventor code of car toy<br />
 car/cartest1.ino: Arduino code for car toy
 
 
